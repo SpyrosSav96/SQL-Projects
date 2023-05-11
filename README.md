@@ -1,3 +1,3 @@
 # SQL-Projects
 
-- This repository contains a collection of SQL projects that I have worked on. Each project focuses on different aspects of SQL, such as data manipulation and querying.
+- This repository contains a collection of SQL projects that showcase various data analysis techniques and methodologies. Each project focuses on different datasets and explores insightful patterns and trends.
